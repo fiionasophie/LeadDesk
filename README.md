@@ -1,4 +1,4 @@
-# LeadDesk – Smart Lead Management
+# LeadDesk – Lead Management
 
 Mobile Business App für effizientes Lead-Management auf Messen und Events.
 Entwickelt im Rahmen des Moduls E-Business an der Hochschule.
